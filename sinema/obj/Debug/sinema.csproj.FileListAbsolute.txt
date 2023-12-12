@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\User\source\repos\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\User\source\repos\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\User\source\repos\sinema\sinema\obj\Debug\sinema.pdb
